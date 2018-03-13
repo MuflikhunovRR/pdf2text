@@ -7,7 +7,7 @@ public class JavaPDFTest {
     public static void main(String[] args) throws IOException {
 
         PDFManager pdfManager = new PDFManager();
-        pdfManager.setFilePath("D:\\JAVA\\Java_SRC\\pdf2text\\src\\main\\resources\\pdffile.pdf");
+        pdfManager.setFilePath("D:\\JAVA\\Java_SRC\\pdf2text\\src\\main\\resources\\pdffile1.pdf");
         System.out.println(pdfManager.ToText().hashCode());
     }
 }
