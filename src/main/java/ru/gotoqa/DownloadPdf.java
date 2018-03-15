@@ -11,7 +11,7 @@ public class DownloadPdf {
     public static void main(String[] args) {
 
         String fromFile = "https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf";
-        String toFile = "D:\\JAVA\\temp\\filetemp222.pdf";
+        String toFile = "D:\\JAVA\\temp\\filetemp.pdf";
 
         try {
 
